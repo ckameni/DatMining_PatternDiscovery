@@ -1,0 +1,36 @@
+---
+title: "resources"
+output: html_document
+---
+
+<http://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Frequent_Pattern_Mining>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+
+
